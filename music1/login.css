@@ -1,0 +1,36 @@
+body{
+    background-image: url('bg4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+form{
+    margin-top: 251px;
+    margin-bottom: 31px;
+    margin-left: 1032px;
+    margin-right: 663px;
+    color: aqua;
+    border-radius: 10px;
+    border-style: groove;
+    height: 213px;
+    width: 235px;
+  }
+    
+
+.email{
+    /* padding: 0px 2px; */
+    margin: 2px;
+}
+.signinbut :hover{
+    background-color: rgb(13, 109, 139);
+    
+    
+}
+.signinbut{
+    margin: 20px;
+  
+    margin-left: 68px;
+}
+.pass{
+    margin-top: 0px;
+}
