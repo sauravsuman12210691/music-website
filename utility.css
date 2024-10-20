@@ -1,0 +1,15 @@
+.border{
+    /* border: 2px solid rgb(255, 0, 0); */
+}
+.flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.align-center{
+    align-items: center;
+}
+.invertimg{
+    filter: invert(1);
+}
